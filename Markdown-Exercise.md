@@ -39,13 +39,23 @@
 
 ### Inline Code & Code Blocks
 This is an example of ' Inline code ' used with sentence
-
 ```python
-def greetings world(name):
-    return f"Hello, {name}!"
+def greetings_everyone():
+print ("greetings everyone")
+```
 
-print(greetings("World"))
-'''
+### Tables
+| Writing Tool | Rate | Recommend |
+|:-----|:------:|------:|
+| Lead Pencil |   8.5  | Yes |
+| Wood Pencil  |   6.5   | Yes |
+| Pen | 5 | No |
 
+### Task List 
+- [] Buy my 7 book series
+- [] Read my 7 book series
+- [] Enjoy my 7 book series
+- [x] Cry about not already having my 7 book series but already owning 1 book from my 7 book series
 
-
+### Footnotes
+[^1]: In order to make a bake fluffy without butter, you whip your egg whites till soft peak whilst gradually 1tsp of sugar at a time before stopping at however much your recipe calls for. Be sure to split your sugar to do the same with your yolks until silky.
