@@ -45,11 +45,14 @@ print ("greetings everyone")
 ```
 
 ### Tables
-| Writing Tool | Rate | Recommend |
+| Kpop Bands | Rate | Recommend |
 |:-----|:------:|------:|
-| Lead Pencil |   8.5  | Yes |
-| Wood Pencil  |   6.5   | Yes |
-| Pen | 5 | No |
+| Ampers&One |   8/10  | Yes |
+| The Rose  |   8.5/10   | Yes |
+| Tomorrow X Together | 100/10 | ABSOLUTLY |
+| Plave | 8/10 | Yes |
+| Stray Kids | 8/10 | Yes|
+| Bts | 2/ 10 | Not right now |
 
 ### Task List 
 - [] Buy my 7 book series
@@ -58,4 +61,5 @@ print ("greetings everyone")
 - [x] Cry about not already having my 7 book series but already owning 1 book from my 7 book series
 
 ### Footnotes
-[^1]: In order to make a bake fluffy without butter, you whip your egg whites till soft peak whilst gradually 1tsp of sugar at a time before stopping at however much your recipe calls for. Be sure to split your sugar to do the same with your yolks until silky.
+[^1]: In order to make a bake fluffy without butter, you whip your egg whites till soft peak whilst gradually adding 1tsp of sugar at a time before stopping at however much your recipe calls for. Be sure to split your sugar to do the same with your yolks until silky.
+[^2]: Fold in your dry ingredients slowly to reduce chances of a flat cake. Keep folding in dry ingredients until well combined, yet still allowing for your batter to look fluffy like soft cream.
