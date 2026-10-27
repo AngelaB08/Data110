@@ -55,9 +55,9 @@ print ("greetings everyone")
 | Bts | 2/ 10 | Not right now |
 
 ### Task List 
-- [] Buy my 7 book series
-- [] Read my 7 book series
-- [] Enjoy my 7 book series
+- [x] Buy my 7 book series
+- [x] Read my 7 book series
+- [x] Enjoy my 7 book series
 - [x] Cry about not already having my 7 book series but already owning 1 book from my 7 book series
 
 ### Footnotes
